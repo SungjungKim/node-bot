@@ -1,0 +1,9 @@
+{
+    "port": 8000,
+    "audioSocketPort": 8011,
+    "securePort": 8443,
+    "secured": false,
+    "mongoose": {
+	"uri": "mongodb://localhost:27017/storage"
+    }
+}
